@@ -33,5 +33,7 @@ Compatible con [nodemcu](http://www.nodemcu.com)
 * [Aliexpress](https://es.aliexpress.com/wholesale?catId=0&initiative_id=SB_20161108021111&SearchText=wemos)
 
 
+[Shields y placas complementarias](./Shields.md)
+
 
 Imágenes de Aliexpress
