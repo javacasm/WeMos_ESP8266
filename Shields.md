@@ -17,3 +17,9 @@ Usa el chip PCA9685 para generar las 16 PWM conectado por I2C
 [Cuidado con la alimentación](http://16-channel-servo-shield-for-d1-mini.readthedocs.io/en/latest/power.html)
 
 [Ejemplo](./Ejemplos/Servos)
+
+## Shield cargador de batería
+
+[Doc](https://wiki.wemos.cc/products:d1_mini_shields:battery_shield#features)
+
+[foro](https://forum.wemos.cc/topic/64/wemosd1-battery-shield)
